@@ -10,6 +10,7 @@ public class InventoryManager : MonoBehaviour
     public ScriptableItem[] weapons;
     public Text[] weaponsNames;
     public Image[] weaponsSprites; 
+    public InventorySlot[] weaponSlots;
 
     void Awake()
     {
@@ -25,6 +26,11 @@ public class InventoryManager : MonoBehaviour
                 weapons[i] = item; 
                 weaponsNames[i].text = item.itemName;
                 weaponsSprites[i].sprite = item.itemSprite;
+
+                weaponSlots[i].slotItem = item; 
+                weaponSlots[i].slotNumber = i;
+
+                return;
             }
         }
     }
