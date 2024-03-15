@@ -159,6 +159,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 1828423122}
     m_Modifications:
     - target: {fileID: -4245132834897523164, guid: 4ee8b290cdb36de4480996b4525deaee, type: 3}
+      propertyPath: closeButton
+      value: 
+      objectReference: {fileID: 2080592045}
+    - target: {fileID: -4245132834897523164, guid: 4ee8b290cdb36de4480996b4525deaee, type: 3}
       propertyPath: deleteButton
       value: 
       objectReference: {fileID: 531059844}
@@ -339,7 +343,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &275846742
 RectTransform:
   m_ObjectHideFlags: 0
@@ -411,6 +415,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1828423122}
     m_Modifications:
+    - target: {fileID: -4245132834897523164, guid: 4ee8b290cdb36de4480996b4525deaee, type: 3}
+      propertyPath: closeButton
+      value: 
+      objectReference: {fileID: 2080592045}
     - target: {fileID: -4245132834897523164, guid: 4ee8b290cdb36de4480996b4525deaee, type: 3}
       propertyPath: deleteButton
       value: 
@@ -977,6 +985,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 1828423122}
     m_Modifications:
     - target: {fileID: -4245132834897523164, guid: 4ee8b290cdb36de4480996b4525deaee, type: 3}
+      propertyPath: closeButton
+      value: 
+      objectReference: {fileID: 2080592045}
+    - target: {fileID: -4245132834897523164, guid: 4ee8b290cdb36de4480996b4525deaee, type: 3}
       propertyPath: deleteButton
       value: 
       objectReference: {fileID: 531059844}
@@ -1377,6 +1389,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 1828423122}
     m_Modifications:
     - target: {fileID: -4245132834897523164, guid: 4ee8b290cdb36de4480996b4525deaee, type: 3}
+      propertyPath: closeButton
+      value: 
+      objectReference: {fileID: 2080592045}
+    - target: {fileID: -4245132834897523164, guid: 4ee8b290cdb36de4480996b4525deaee, type: 3}
       propertyPath: deleteButton
       value: 
       objectReference: {fileID: 531059844}
@@ -1628,6 +1644,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 1828423122}
     m_Modifications:
     - target: {fileID: -4245132834897523164, guid: 4ee8b290cdb36de4480996b4525deaee, type: 3}
+      propertyPath: closeButton
+      value: 
+      objectReference: {fileID: 2080592045}
+    - target: {fileID: -4245132834897523164, guid: 4ee8b290cdb36de4480996b4525deaee, type: 3}
       propertyPath: deleteButton
       value: 
       objectReference: {fileID: 531059844}
@@ -1788,6 +1808,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1828423122}
     m_Modifications:
+    - target: {fileID: -4245132834897523164, guid: 4ee8b290cdb36de4480996b4525deaee, type: 3}
+      propertyPath: closeButton
+      value: 
+      objectReference: {fileID: 2080592045}
     - target: {fileID: -4245132834897523164, guid: 4ee8b290cdb36de4480996b4525deaee, type: 3}
       propertyPath: deleteButton
       value: 
@@ -2247,6 +2271,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 1828423122}
     m_Modifications:
     - target: {fileID: -4245132834897523164, guid: 4ee8b290cdb36de4480996b4525deaee, type: 3}
+      propertyPath: closeButton
+      value: 
+      objectReference: {fileID: 2080592045}
+    - target: {fileID: -4245132834897523164, guid: 4ee8b290cdb36de4480996b4525deaee, type: 3}
       propertyPath: deleteButton
       value: 
       objectReference: {fileID: 531059844}
@@ -2486,6 +2514,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1828423122}
     m_Modifications:
+    - target: {fileID: -4245132834897523164, guid: 4ee8b290cdb36de4480996b4525deaee, type: 3}
+      propertyPath: closeButton
+      value: 
+      objectReference: {fileID: 2080592045}
     - target: {fileID: -4245132834897523164, guid: 4ee8b290cdb36de4480996b4525deaee, type: 3}
       propertyPath: deleteButton
       value: 
@@ -3462,6 +3494,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1828423122}
     m_Modifications:
+    - target: {fileID: -4245132834897523164, guid: 4ee8b290cdb36de4480996b4525deaee, type: 3}
+      propertyPath: closeButton
+      value: 
+      objectReference: {fileID: 2080592045}
     - target: {fileID: -4245132834897523164, guid: 4ee8b290cdb36de4480996b4525deaee, type: 3}
       propertyPath: deleteButton
       value: 
