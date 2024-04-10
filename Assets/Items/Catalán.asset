@@ -9,11 +9,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0c4e4fc9f47b915408f4089911aaf43c, type: 3}
-  m_Name: Arco
+  m_Script: {fileID: 11500000, guid: 0292928bfa498ff41bd05264624ebaaa, type: 3}
+  m_Name: "Catal\xE1n"
   m_EditorClassIdentifier: 
-  itemType: 0
-  itemName: Arco
-  itemDescription: Un arco que he encontrado en la feria de mi pueblo.
-  itemPrice: 3
-  itemSprite: {fileID: 21300000, guid: 71bc1c2d49e31b14fb48e40222ff6bed, type: 3}
+  languageFlag: "Catal\xE1n"
+  textTranslation: '"Ulls oberts, nois. Encara estem en la lluita".'
