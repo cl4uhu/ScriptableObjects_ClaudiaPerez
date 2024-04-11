@@ -461,7 +461,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\"Ojos abiertos, muchachos. Todav\xEDa estamos en la lucha\"."
+  m_Text: '"Ojos abiertos, muchachos. Todavia estamos en la lucha".'
 --- !u!222 &734021200
 CanvasRenderer:
   m_ObjectHideFlags: 0
