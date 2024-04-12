@@ -6,5 +6,9 @@ using UnityEngine;
 public class Translation : ScriptableObject
 {
     public string languageFlag;
-    public string textTranslation; 
+    public string textTranslation;
+    public string catalanTranslation; 
+    public string italianoTranslation;
+    public string francesTranslation;
+    public string arabeTranslation;
 }

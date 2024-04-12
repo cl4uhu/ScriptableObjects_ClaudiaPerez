@@ -14,3 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   languageFlag: "Catal\xE1n"
   textTranslation: '"Ulls oberts, nois. Encara estem en la lluita".'
+  catalanTranslation: "Catal\xE0"
+  italianoTranslation: "Itali\xE0"
+  francesTranslation: "Franc\xE8s"
+  arabeTranslation: "\xC0rab"

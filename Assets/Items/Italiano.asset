@@ -14,3 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   languageFlag: Italiano
   textTranslation: '"Occhi aperti, ragazzi. Siamo ancora in lotta."'
+  catalanTranslation: Catalano
+  italianoTranslation: Italiano
+  francesTranslation: Francese
+  arabeTranslation: Arabo

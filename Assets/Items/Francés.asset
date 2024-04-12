@@ -14,3 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   languageFlag: "Franc\xE9s"
   textTranslation: '"Yeux ouverts, les gars.          Nous sommes dans le combat."'
+  catalanTranslation: Catalan
+  italianoTranslation: Italien
+  francesTranslation: "Fran\xE7ais"
+  arabeTranslation: Arabe
